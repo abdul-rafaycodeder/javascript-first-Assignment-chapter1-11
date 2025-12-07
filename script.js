@@ -100,3 +100,22 @@
 // alert(remainder)
 
 
+// -------Prompt------- //
+
+// 1.
+// var name = prompt("what is your name:", "what is your name");
+// alert("Hello, " + name + " kya hall hai!");
+
+// 2.Ask the user9s age and display it.
+// var age = prompt("what is your age");
+// alert("your age is, " + age);
+
+
+// 3.Ask the user for a number, double it, and show the result
+// let num = prompt("Koi number enter karo:");
+// num = Number(num); 
+
+// let doubled = num * 2; 
+// alert("Doubled number: " + doubled);
+
+
