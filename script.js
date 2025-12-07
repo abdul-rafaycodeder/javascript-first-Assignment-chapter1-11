@@ -93,3 +93,10 @@
 // var result = x / y;
 // alert(result)
 
+// 5.Find the remainder of x % y
+// var x = 10;
+// var y = 3;
+// var remainder = x % y;
+// alert(remainder)
+
+
