@@ -69,7 +69,7 @@
 
 // -------Math Expressions------- //
 
-// 1.Create two variables: x = 10, y = 5, 4 add them and 
+// 1.Create two variables: x = 10, y = 5, 4 add them and
 // var x = 10;
 // var y = 5;
 // var sum = x + y;
@@ -113,9 +113,9 @@
 
 // 3.Ask the user for a number, double it, and show the result
 // let num = prompt("Koi number enter karo:");
-// num = Number(num); 
+// num = Number(num);
 
-// let doubled = num * 2; 
+// let doubled = num * 2;
 // alert("Doubled number: " + doubled);
 
 // 4.Ask for favorite colour and show a message like:Wow! I like blue too!=
@@ -139,7 +139,7 @@
 
 // 2.Ask for a number. If it9s even, show <Even number=.
 // var num = prompt("Enter any number:");
-// num = Number(num); 
+// num = Number(num);
 
 // if(num % 2 === 0){
 //     alert("Even number");
@@ -159,3 +159,13 @@
 // } else {
 //     alert("Both numbers are equal");
 // }
+
+// 4.
+// var password = prompt("enter your password","enter your password");
+
+// var correctPassword = "kucb bi likho";
+
+// if(password + correctPassword){
+//     alert("Access granted");
+// } 
+
