@@ -169,11 +169,15 @@
 //     alert("Access granted");
 // } 
 
-// 5.
-var a = 5;
-var b = "5";
+// 5.Use ==, ===, !=, !== to compare two values:5. == (loose equality) === (strict equality)
+// != (loose inequality) !== (strict inequality)
 
-console.log(a == b);
-console.log(a === b);
-console.log(a != b);
-console.log(a !== b);
+
+
+// var a = 5;
+// var b = "5";
+
+// console.log(a == b);
+// console.log(a === b);
+// console.log(a != b);
+// console.log(a !== b);
