@@ -69,11 +69,27 @@
 
 // -------Math Expressions------- //
 
-// 1.Create two variables: x = 10, y = 5 4 add them and 
+// 1.Create two variables: x = 10, y = 5, 4 add them and 
 // var x = 10;
 // var y = 5;
 // var sum = x + y;
 // alert(sum);
 
-// 2.
-// 
+// 2.Subtract y from x and alert the answer
+// var y = 10;
+// var x = 5;
+// var result = y - x;
+// alert(result);
+
+// 3.Multiply x and y, and log result to the console
+// var x = 5;
+// var y = 5;
+// var result = x * y;
+// console.log(result)
+
+// 4.Divide x by y
+// var x = 20;
+// var y = 8;
+// var result = x / y;
+// alert(result)
+
