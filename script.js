@@ -129,3 +129,33 @@
 
 // -------If Statement and Comparison Operators------- //
 
+// 1.
+// var age = prompt("what is your age", "what is your age");
+// age = Number(age);
+
+// if (age < 30) {
+//     alert("You're still a young man.");
+// }
+
+// 2.Ask for a number. If it9s even, show <Even number=.
+// var num = prompt("Enter any number:");
+// num = Number(num); 
+
+// if(num % 2 === 0){
+//     alert("Even number");
+// }
+
+// 3.Compare two numbers and show which one is greater. | is ma mana else if or else bi use kara hai
+// var num1 = prompt("Pehla number enter karo:");
+// var num2 = prompt("Dusra number enter karo:");
+
+// num1 = Number(num1);
+// num2 = Number(num2);
+
+// if(num1 > num2){
+//     alert(num1 + " is greater than " + num2);
+// } else if(num2 > num1){
+//     alert(num2 + " is greater than " + num1);
+// } else {
+//     alert("Both numbers are equal");
+// }
