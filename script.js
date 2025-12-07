@@ -118,4 +118,13 @@
 // let doubled = num * 2; 
 // alert("Doubled number: " + doubled);
 
+// 4.Ask for favorite colour and show a message like:Wow! I like blue too!=
+// var color = prompt("what is your favorite color:", "what is your favorite color");
+// alert("Wow! I like " + color + " too!");
 
+// 5.Ask for city name, and say: <You are from [city].=
+// var city = prompt("what is you city name:", "what is you city name");
+// alert("You are from, " + city +" I like this city");
+
+
+// -------If Statement and Comparison Operators------- //
